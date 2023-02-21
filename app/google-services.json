@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357902946356",
+    "project_id": "chatus-40584",
+    "storage_bucket": "chatus-40584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357902946356:android:c1e3a124f92d03cd337a61",
+        "android_client_info": {
+          "package_name": "com.example.chatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357902946356-g30a6ar27f4kh3256br8od5u4qrjud2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqV-7xp5akl_zA5rjus8gwyU3EazheK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357902946356-g30a6ar27f4kh3256br8od5u4qrjud2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
